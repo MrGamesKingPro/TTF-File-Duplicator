@@ -7,6 +7,8 @@
 
 Simple tool to duplicate a single Font (`.ttf`) file multiple times, renaming each copy based on the filenames found in a specified "naming source" folder. This is useful, for example, when you want to use the same font file for various in-game fonts but need them to have specific filenames recognized by a game engine or tool.
 
+![duplicate_file](https://github.com/user-attachments/assets/ac2ee23b-6772-4b2c-bfef-1e6eecc5d57c)
+
 ## Features
 
 *   Select a single source `.ttf` file, or a folder containing the `.ttf` file to be duplicated.
